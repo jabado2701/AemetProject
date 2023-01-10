@@ -13,7 +13,6 @@ import java.security.NoSuchAlgorithmException;
 import java.security.cert.X509Certificate;
 
 public class APIKey {
-    //final static String url="https://opendata.aemet.es/opendata/api/observacion/convencional/todas";
     final static String apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYWJhZG85NUBnbWFpbC5jb20iLCJqdGkiOiJlNzIwZGMwNC1hODRiLTRjMjctOGYxMi0xM2M5YjU1ODNhYjciLCJpc3MiOiJBRU1FVCIsImlhdCI6MTY3MDk0NjQ4NSwidXNlcklkIjoiZTcyMGRjMDQtYTg0Yi00YzI3LThmMTItMTNjOWI1NTgzYWI3Iiwicm9sZSI6IiJ9.PxqYb0jkQa5pT7PEkUHnewzqMFTKjpZM62eaF_oVoSU";
 
     static String request(String string) throws IOException {

@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dbe5557-aca4-41df-bca7-eaf44206e9dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5dbe5557-aca4-41df-bca7-eaf44206e9dc" name="Changes" comment="Second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datamart-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datamart-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feeder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feeder/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feeder/src/main/java/sensor/APIKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/feeder/src/main/java/sensor/APIKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/temperature-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673377759450</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1673379538823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379538823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>

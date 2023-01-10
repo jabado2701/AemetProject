@@ -8,7 +8,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ReadMaxTemperature implements ReadTemperature {
+public class ReadMaxTemperature  {
     public List<String> readAllData(String from, String to) throws SQLException {
         Gson gson = new Gson();
         Connection con = connect();

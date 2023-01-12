@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class MainTS {
     public static void main(String[] args) {
         new APICalls().gets();
     }

@@ -26,6 +26,7 @@ public class FeederController {
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
+            System.out.println("Se ha ejecutado el feeder");
             System.out.println("Ha pasado una hora");
         }
     }

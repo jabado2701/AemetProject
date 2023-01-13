@@ -34,6 +34,7 @@ public class DatamartController {
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
+            System.out.println("Se ha ejecutado el datamart-provider");
 
         }
     }
